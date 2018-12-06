@@ -1,6 +1,9 @@
 # JFrog Artifactory-ha Chart Changelog
 All changes to this chart will be documented in this file.
 
+## [0.7.18] - Dec 20, 2018
+* Add support for Azure Blob Storage Binary provider
+
 ## [0.7.17] - Dec 17, 2018
 * Updated Artifactory version to 6.5.13
 
